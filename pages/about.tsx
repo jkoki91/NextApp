@@ -1,6 +1,6 @@
 import Link from 'next/link'
-import { MainLayout } from '@/components/laoyuts/MainLayout'
-import { DarkLayout } from '@/components/laoyuts/DarkLayout'
+import { MainLayout } from '../components/laoyuts/MainLayout'
+import { DarkLayout } from '../components/laoyuts/DarkLayout'
 
 export default function AboutPage() {
   return (

@@ -1,6 +1,6 @@
-import styles from '@/styles/Home.module.css'
+import styles from '../../styles/Home.module.css'
 import Link from 'next/link'
-import { MainLayout } from '@/components/laoyuts/MainLayout'
+import { MainLayout } from '../../components/laoyuts/MainLayout'
 
 export default function PricingPage() {
   return (

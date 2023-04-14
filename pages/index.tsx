@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { MainLayout } from '@/components/laoyuts/MainLayout'
+import { MainLayout } from '../components/laoyuts/MainLayout'
 
 export default function Home() {
   return (
